@@ -14,9 +14,9 @@ The average medical cost for smokers was $13,658.53 higher than costs for non-sm
 
 The data did not indicate a strong relationship between BMI and age with a correlation coefficient of 0.12.
 
-A Welch Two Sample t-test was conducted to compare the mean medical costs between females and males.
+A **Welch Two Sample t-test** was conducted to compare the mean medical costs between females and males.
 
 - Null Hypothesis (H0): The mean medical costs for males and females are equal. H0: μ_male = μ_female
 - Alternative Hypothesis (Ha): The mean medical costs for males and females are not equal. Ha: μ_male ≠ μ_female
 
-With a p-value of 0.3998, the null hypothesis failed to be rejected.
+With a **p-value** of 0.3998, the null hypothesis failed to be rejected.
